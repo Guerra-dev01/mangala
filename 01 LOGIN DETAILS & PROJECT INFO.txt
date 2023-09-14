@@ -1,0 +1,13 @@
+**Contact Oasis IT platforms for more projects!**
+
+**Database Name: Mangala**
+
+**Developed by Oasis IT**
+
+**Recommended PHP Version 5.6 or Newer(7.4)**
+
+
+**Admin Login Details** 
+
+Email   : maque@mangala.co.mz
+Password: #123456

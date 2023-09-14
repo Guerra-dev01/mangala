@@ -1,0 +1,4 @@
+#1A0092  (azul)
+#AF1113  (vermelho) 
+
+fonte para usar é ( poppins )
